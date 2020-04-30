@@ -1,0 +1,21 @@
+---
+title: "Task3_novel_questions"
+author: "IsabelDing"
+date: "4/28/2020"
+output: html_document
+---
+
+## My novel questions that data can answer
+## 1. To show the COVID-19 cases number in different country.
+For this question, the ranking graph might be the best option, and better to have the grows of the data from day to day. And bar chart can help to show some specific country's grows.
+
+## 2. Data about video game sales.
+There are a lot of thing can be explored in this topic. For example, how many video games has been released by year; the top publisher in each year; the genre in each year.
+
+## 3. What are the top Tv shows and movies listed on Netflix.
+Compre the genre of the movies, have the top 10 popular movie list in each genre.
+
+## 4. Is Tesla worthy to buy?
+Compare stock price with S&P 500, and the genernal stock market. And it will be nice to have some pictures to show stock trading. 
+
+
